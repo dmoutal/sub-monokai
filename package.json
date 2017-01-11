@@ -7,6 +7,6 @@
   "repository": "https://github.com/dmoutal/sub-monokai",
   "license": "MIT",
   "engines": {
-    "atom": ">1.13.0"
+    "atom": ">=1.13.0"
   }
 }
