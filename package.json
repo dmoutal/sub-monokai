@@ -1,7 +1,7 @@
 {
   "name": "sub-monokai",
   "theme": "syntax",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
   "description": "A monokai theme, inspired by SublimeText",
   "repository": "https://github.com/dmoutal/sub-monokai",
