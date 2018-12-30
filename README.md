@@ -1,3 +1,5 @@
+**This repo is no longer being maintained; I am no longer using Atom**
+
 # A Monokai Theme
 ## Inspired by Sublime Text
 
